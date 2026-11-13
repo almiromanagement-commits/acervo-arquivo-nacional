@@ -1,0 +1,211 @@
+{
+  "schema_version": "1.0",
+  "dataset": {
+    "nome": "Acervo de conhecimento histórico para sistemas de IA - Ordem do Carmo (Série Cartográfica)",
+    "idioma": "pt-BR",
+    "quantidade_de_registros": 4,
+    "observacao_arquivistica": "Série Temporária (BR RJANRIO S1.0.TPR) criada em agosto de 2024 pela DIDIC/Cartografia e CODAC do Arquivo Nacional, reunindo 3 plantas e 1 mapa do fundo Ordem do Carmo."
+  },
+  "convencoes_de_transcricao": "Ortografia original preservada; [?] marca leitura duvidosa; [...] marca trecho ilegível ou omitido; hifens de fim de linha desfeitos. Documentos manuscritos e plantas antigas: revisão paleográfica humana recomendada.",
+  "registros": [
+    {
+      "id": "BR_RJANRIO_S1_0_TPR_1",
+      "tipo_registro": "documento_arquivistico",
+      "titulo_descritivo": "Planta para instalar mictório no prédio nº 58-60 da Rua General Câmara",
+      "titulo_no_catalogo": "planta para instalar 1 mictório no prédio nº 58-60 da rua general câmara.",
+      "instituicao_custodiante": "Arquivo Nacional do Brasil",
+      "sistema_de_pesquisa": "SIAN",
+      "fundo": {
+        "nome": "Ordem do Carmo",
+        "codigo": "BR RJANRIO S1"
+      },
+      "serie": {
+        "nome": "Temporária",
+        "codigo": "BR RJANRIO S1.0.TPR"
+      },
+      "codigo_de_referencia": "BR RJANRIO S1.0.TPR.1",
+      "nivel_de_descricao": "Dossiê",
+      "natureza_da_fonte": "Fonte histórica primária (planta arquitetônica técnica com anotações manuscritas)",
+      "categoria_tematica": [
+        "arquitetura e urbanismo",
+        "saneamento urbano",
+        "patrimônio imobiliário religioso",
+        "Santos (SP)",
+        "Ordem do Carmo"
+      ],
+      "pessoas": [
+        {
+          "nome": "Frei Timotheo van der Brock",
+          "papel": "assinatura / procurador do proprietário",
+          "descricao": "Assina o documento como proprietário por procuração ('p.p. Província Carmelitana Fluminense')"
+        }
+      ],
+      "localizacao_geografica": {
+        "localidades_citadas": [
+          "Rua General Câmara, nº 58-60",
+          "Santos"
+        ],
+        "unidade_federativa_atual": "São Paulo",
+        "pais": "Brasil"
+      },
+      "datas": {
+        "producao_inicial": 1936,
+        "producao_final": 1936,
+        "assunto_inicial": 1936,
+        "assunto_final": 1936,
+        "observacao": "Projeto de reforma submetido à Repartição de Saneamento de Santos em 1936."
+      },
+      "arquivo_digital": {
+        "nome": "BR_RJANRIO_S1_0_TPR_0001_d0001de0001.pdf",
+        "formato": "PDF",
+        "tamanho_aproximado_mb": 16.3,
+        "paginas_digitalizadas": 1,
+        "conteudo_pesquisavel_por_texto": false,
+        "legibilidade": "Boa: desenho técnico arquitetônico legível com legendas em caixa alta e cotas de metragem."
+      },
+      "anotacoes_de_arquivo": [
+        "Assinado manuscritamente por Frei Timotheo van der Brock representando a Província Carmelitana Fluminense.",
+        "Verso contém carimbo da Repartição de Saneamento de Santos."
+      ],
+      "descricao_catalografica": {
+        "origem_da_descricao": "Ficha do SIAN conferida com leitura do texto extraído da planta técnica.",
+        "resumo": "Planta arquitetônica técnica apresentando planta baixa (escala 1:100) e dois cortes transversais (Corte AB e Corte CD, na escala 1:50) para instalação de um mictório junto a um W.C. e depósito nos fundos de uma loja situada na Rua General Câmara, nº 58-60, em Santos (SP)."
+      },
+      "transcricao": {
+        "estado": "completa (elementos textuais da planta)",
+        "p1": "PLANTA PARA INSTALAR 1 MICTORIO NO PREDIO NOS 58-60 DA RUA GENERAL CAMARA / LOJA / DEPOSITO / W.C. / MICTORIO [MICA] / Cotas: 2.85 / 3.30 / 2.60 / 2.40 / 2.25 / 4.50 / 5.00 / Escalas: PLANTA 1:100 / CORTE AB 1:50 / CORTE CD 1:50 [A1150] / PROP. [Proprietário] / ARCH.TO [Arquiteto] / BR RJANRIO S1.0.TPR.1"
+      },
+      "estado_de_processamento": "concluído"
+    },
+    {
+      "id": "BR_RJANRIO_S1_0_TPR_2",
+      "tipo_registro": "documento_arquivistico",
+      "titulo_descritivo": "Planta de acréscimo nos pavimentos do prédio nº 58 e 60 da Rua General Câmara",
+      "titulo_no_catalogo": "rua general câmara, nº 58 e 60: acréscimo. prop. província carmelitana fluminense.",
+      "instituicao_custodiante": "Arquivo Nacional do Brasil",
+      "sistema_de_pesquisa": "SIAN",
+      "fundo": {
+        "nome": "Ordem do Carmo",
+        "codigo": "BR RJANRIO S1"
+      },
+      "serie": {
+        "nome": "Temporária",
+        "codigo": "BR RJANRIO S1.0.TPR"
+      },
+      "codigo_de_referencia": "BR RJANRIO S1.0.TPR.2",
+      "nivel_de_descricao": "Dossiê",
+      "natureza_da_fonte": "Fonte histórica primária (planta arquitetônica técnica com anotações manuscritas)",
+      "categoria_tematica": [
+        "arquitetura e urbanismo",
+        "saneamento urbano",
+        "patrimônio imobiliário religioso",
+        "Santos (SP)",
+        "Ordem do Carmo"
+      ],
+      "pessoas": [
+        {
+          "nome": "Frei Timotheo van der Brock",
+          "papel": "assinatura / procurador do proprietário",
+          "descricao": "Assina o documento representando o proprietário (Província Carmelitana Fluminense)"
+        }
+      ],
+      "localizacao_geografica": {
+        "localidades_citadas": [
+          "Rua General Câmara, nº 58 e 60",
+          "Santos"
+        ],
+        "unidade_federativa_atual": "São Paulo",
+        "pais": "Brasil"
+      },
+      "datas": {
+        "producao_inicial": 1936,
+        "producao_final": 1940,
+        "assunto_inicial": 1936,
+        "assunto_final": 1940,
+        "observacao": "Projeto de acréscimo construtivo com carimbo da Repartição de Saneamento de Santos nº 2551."
+      },
+      "arquivo_digital": {
+        "nome": "BR_RJANRIO_S1_0_TPR_0002_d0001de0001.pdf",
+        "formato": "PDF",
+        "tamanho_aproximado_mb": 24.58,
+        "paginas_digitalizadas": 1,
+        "conteudo_pesquisavel_por_texto": false,
+        "legibilidade": "Boa: desenho técnico arquitetônico apresentando plantas do 1º, 2º e 3º pavimentos e corte longitudinal."
+      },
+      "anotacoes_de_arquivo": [
+        "Original possui carimbo da Repartição de Saneamento de Santos com nº 2551.",
+        "Assinatura manuscrita de Frei Timotheo van der Brock representando a Província Carmelitana Fluminense."
+      ],
+      "descricao_catalografica": {
+        "origem_da_descricao": "Ficha do SIAN conferida com leitura do texto extraído da planta técnica.",
+        "resumo": "Planta técnica arquitetônica (escala 1:200) apresentando o projeto de acréscimo para os 1º, 2º e 3º pavimentos, além de corte longitudinal, do imóvel localizado na Rua General Câmara, nº 58 e 60, em Santos (SP), de propriedade da Província Carmelitana Fluminense."
+      },
+      "transcricao": {
+        "estado": "completa (elementos textuais principais)",
+        "p1": "RUA GENERAL CAMARA, N. 58 E 60 / ACCRESCIMO / PROP. PROVINCIA CARMELITANA FLUMINENSE / Corte Longitudinal / ESC. 1:200 / Carimbo: 2551 / BR RJANRIO S1.0.TPR.2"
+      },
+      "estado_de_processamento": "concluído"
+    },
+    {
+      "id": "BR_RJANRIO_S1_0_TPR_3",
+      "tipo_registro": "documento_arquivistico",
+      "titulo_descritivo": "Planta semi-cadastral de Santos (SP): trecho entre o Morro de São Bento e a Rua Antônio Prado",
+      "titulo_no_catalogo": "santos (sp): trecho entre o morro de são bento e a rua antônio prado, indicando terreno em litígio entre a rua visconde de são leopoldo e a rua do comércio.",
+      "instituicao_custodiante": "Arquivo Nacional do Brasil",
+      "sistema_de_pesquisa": "SIAN",
+      "fundo": {
+        "nome": "Ordem do Carmo",
+        "codigo": "BR RJANRIO S1"
+      },
+      "serie": {
+        "nome": "Temporária",
+        "codigo": "BR RJANRIO S1.0.TPR"
+      },
+      "codigo_de_referencia": "BR RJANRIO S1.0.TPR.3",
+      "nivel_de_descricao": "Dossiê",
+      "natureza_da_fonte": "Fonte histórica primária (planta cartográfica semi-cadastral manuscrita)",
+      "categoria_tematica": [
+        "cartografia urbana",
+        "litígios fundiários",
+        "toponímia histórica",
+        "Santos (SP)",
+        "Ordem do Carmo"
+      ],
+      "pessoas": [],
+      "localizacao_geografica": {
+        "localidades_citadas": [
+          "Santos",
+          "Morro de São Bento",
+          "Rua Antônio Prado",
+          "Rua Visconde de São Leopoldo",
+          "Rua do Comércio",
+          "Rua General Câmara"
+        ],
+        "unidade_federativa_atual": "São Paulo",
+        "pais": "Brasil"
+      },
+      "datas": {
+        "producao_inicial": null,
+        "producao_final": null,
+        "assunto_inicial": null,
+        "assunto_final": null,
+        "observacao": "Datas não especificadas na ficha catalográfica do SIAN."
+      },
+      "arquivo_digital": {
+        "nome": "BR_RJANRIO_S1_0_TPR_0003_d0001de0001.pdf",
+        "formato": "PDF",
+        "tamanho_aproximado_mb": 23.84,
+        "paginas_digitalizadas": 1,
+        "conteudo_pesquisavel_por_texto": false,
+        "legibilidade": "Média a difícil: planta manuscrita em grande formato com caligrafia fina, anotações sobre drenagem e marcações de proprietários em lápis carmim."
+      },
+      "anotacoes_de_arquivo": [
+        "Título atribuído pelo setor de cartografia.",
+        "Escala não determinada; contém informações sobre drenagem e proprietários anotadas em lápis carmim."
+      ],
+      "descricao_catalografica": {
+        "origem_da_descricao": "Ficha do SIAN conferida com inspeção visual da planta cartográfica.",
+        "resumo": "Planta urbana semi-cadastral manuscrita da área central e portuária de Santos (SP), abrangendo o trecho entre o Morro de São Bento e a Rua Antônio Prado. Detalha o traçado de quarteirões, edificações, redes de drenagem, topônimos antigos e destaca um terreno em litígio situado entre a Rua Visconde de São Leopoldo e a Rua do Comércio."
+      },
+      "transcricao": {
+        "estado": "parcial",
